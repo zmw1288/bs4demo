@@ -8,6 +8,10 @@
   width: 12rem;
   height: 100%;
 }
+a:link {
+color: #330099;
+text-decoration: none;
+}
 .a li{
   list-style-type: none;
   height: 3rem;
